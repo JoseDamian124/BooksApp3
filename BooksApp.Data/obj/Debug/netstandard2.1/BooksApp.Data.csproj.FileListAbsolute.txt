@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\bin\Debug\netstandard2.1\BooksApp.Data.deps.json
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\bin\Debug\netstandard2.1\BooksApp.Data.dll
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\bin\Debug\netstandard2.1\BooksApp.Data.pdb
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\bin\Debug\netstandard2.1\BooksApp.Domain.dll
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\bin\Debug\netstandard2.1\BooksApp.Domain.pdb
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.AssemblyInfo.cs
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.csproj.CopyComplete
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.dll
+C:\Users\pc\source\repos\BooksApp3\BooksApp.Data\obj\Debug\netstandard2.1\BooksApp.Data.pdb
